@@ -12,6 +12,8 @@
 
 ## Overview
 
+![Logo Icon](docs/logo.png)
+
 Czarniecki - The Game is my high school project for competition about our patron Stefan Czarniecki - Polish nobleman. You can read about him at the [Wikipedia page](https://www.wikiwand.com/en/Stefan_Czarniecki).
 
 ## Download
