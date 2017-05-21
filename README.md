@@ -6,6 +6,7 @@
 * @AbandonDate: 2013-07
 * @Language: GML
 * @Framework: GameMaker: Studio
+* @Locale: pl_PL
 * @License: GPLv3
 * @Status: Alpha | Abandoned | Sample
 
