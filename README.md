@@ -7,7 +7,7 @@
 * @Language: GML
 * @Framework: GameMaker: Studio
 * @Locale: pl_PL
-* @License: GPLv3
+* @License: [GPLv3](LICENSE.md)
 * @Status: Alpha | Abandoned | Sample
 
 ## Overview
