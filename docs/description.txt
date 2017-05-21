@@ -1,0 +1,63 @@
+Wstęp
+Przedstawiamy polskiego dowódcę wojskowego znanego z prowadzenia wojny partyzanckiej przeciw wojskom Karola X Gustawa w czasie potopu szwedzkiego - Stefana Czarnieckiego. Na podstawie znanych informacji przygotowaliśmy grę dydaktyczno-edukacyjną zawierającą elementy historyczne związane z naszym patronem.
+
+O grze
+Rozgrywka polega na pokonywaniu kolejnej fali wrogów nadchodzących z prawej strony mapy. Należy niedopuścić do przedarcia się wroga na lewą stronę, a także do utraty wszystkich punktów życia.
+
+Sterowanie
+Ruchy postacią odbywają się poprzez klawisze:
+W - ruch do góry
+S - ruch w dół
+A - ruch w lewo
+D - ruch w prawo
+Do dyspozycji jako broń mamy łuk. Aby wystrzelić strzałę należy ustawić postać w kierunku, w którym chcemy skierować pocisk, a następnie nacisnąć klawisz SPACJA. Przytrzymanie klawisza SPACJA spowoduje kolejny wystrzał pocisków w odstępach jednej sekundy. Jest to czas niezbędny do przeładowania broni.
+W trakcie bitwy mamy możliwość wstrzymania gry poprzez naciśnięcie klawisza P. Gra zostaje w takim przypadku zatrzymana, co przejawia się unieruchomieniem zarówno wrogów, postaci gracza, jak i innych obiektów, jak np. pociski. Ponowne naciśnięcie klawisza P przywraca pełną aktywność gry do stanu sprzed wstrzymania. UWAGA!: Funkcja pauzowania działa tylko podczas bitew. Przejścia między nimi i animacje nie mogą być pauzowane.
+Podczas dowolnego momentu rozgrywki naciśnięcie kalwisza F4 spowoduje przełączenie się trybu graficznego gry na pełny ekran poprzez skalowanie i maksymalizację okna. Ponowne naciśniecie klawisza F4 cofa zmianę.
+W dowolnej chwili działania aplikacji gracz może nacisnąć klawisz ESC, aby zakończyc jej działanie. Identyczny efekt powoduje kliknięcie kursorem znaku (x) na belce okna.
+
+Postać gracza
+Gracz steruje symbolicznym obiektem graficznym przedstawiającym Stefana Czarnieckiego za czasów, kiedy brał udział w bitwach. Za umowny przyjęty został wygląd dorosłego mężczyzny z czarnymi gęstymi włosami i pokaźnej wielkości zarost odzianego w czerwony płaszcz i jasno-brązową pelerynę.
+
+System punktacji
+Gracz rozpoczyna grę z liczbą punktów równą zero i może zdobyć je na dwa sposoby. Pierwszym z nich jest zabijanie pojawiających się na mapie wrogów. Za każdego trafionego pociskiem wroga gracz dostaje dodatkowe 5 punktów. Drugim sposobem jest poprawna odpowiedź na pytanie bonusowe pojawiające się po każdej bitwie, daje ona dodatkowe 30 punktów.
+Gracz może stracić 10 punktów za każdego wroga, który przedostanie się za lewą krawędź mapy. Utrata 20 punktów następuje przy błędnej odpowiedzi na pytanie bonusowe.
+
+Życie postaci
+Gracz na początku rozgrywki dysponuje trzema punktami życia, co oznacza że może stracić dwa z nich. Strata jednego punktu życia może odbyć się wyłącznie poprzez zetknięcie się z wrogiem odpowiedniego typu (patrz "Rodzaje wrogów"). Utrata trzeciego punktu życia powoduje zakończenie rozgrywki i przejście do podsumowania wyniku. Za punkty życia, które nie zostały odebrane podczas bitew nie są przewidziane premie punktowe.
+
+System tytułów
+W grze istnieje możliwość zdobywania tytułów postaci stworzonych na postawie informacji historycznych. Możliwe do zdobycia tytuły to kolejno:
+1. Oboźny wielki koronny
+2. Kasztelan kijowski
+3. Starosta kowelski
+4. Regimentarz
+5. Wojewoda ruski
+6. Starosta tykociński
+7. Wojewoda kijowski
+8. Hetman polny koronny
+Zdobywanie kolejnych tytułów odbywa się automatycznie po osiągnięciu odpowiedniego pułapu punktowego, który jest generowany automatycznie na podstawie sposobu walki gracza z przeciwnikiem i czasu bitew. Informacje o zdobytych tytułach wyświetlają się na bierząco podczas bitew, a także w końcowych statystykach.
+
+Rodzaje wrogów
+Rozgrywka wymaga pokonywania dwóch typów wrogów, ktorzy charakteryzują się:
+1. Naturalnym zabarwieniem i brakiem jakiejkolwiek kolizji z postacią gracza. Jego zadaniem jest przedostanie się na lewą stronę mapy, co powoduje odjęcie graczowi odpowiedniej liczby punktów.
+2. Czerwonym zabarwieniem. Jego zadaniem jest ruch w kierunku gracza. Przy zetknięciu tego typu wroga z postacią gracz traci jeden punkt życia i zostaje niewrażliwy na kolejne tego typu ataki przez kolejne kilka sekund, co charakteryzuje się miganiem postaci gracza. Postać wroga nie traci przy tym życia i w przypadku kolejnego zetknięcia po okresie nietykalności nadal może spowodować utratę punktów życia. Za ten typ wroga nie traci się punktów, ponieważ technicznie nie jest możliwe, aby przeszedł on za lewą krawędz mapy.
+
+Pełny przebieg rozgrywki
+1. Logo: Po włączeniu się gry na kilka sekund wyświetla się logo i nazwa I Liceum Ogólnokształcącego w Chełmie.
+2. Menu: Umożliwia rozpoczęcie nowej gry, wyjście z programu i (za pomoca przycisku (?) w prawym dolnym rogu okna) wyświetlenie informacji o przeznaczeniu gry, nazwiska autorów i możliwość przejścia na stronę internetową I Liceum Ogólnokształcącego w Chełmie.
+3. Dom: Na tej mapie zostaje wyświetlony krótki poradnik z opisanymi podstawami sterowania i celem gracza.
+<-- Osiem map powtarzalnych -->
+4. Opis bitwy: Na podstawie informacji historycznych wyświetlona zostaje nazwa i opis bitwy, jaką w sposób symboliczny ma wygrać gracz.
+5. Mapa: Mapa Europy z zaznaczonymi punktami poruszania się postaci między kolejnymi lokalizacjami.
+6. Bitwa: Mapa na której gracz ma wykonać postawione mu cele. Obecne w grze bitwy to kolejno:
+   - Bitwa pod Chocimiem
+   - Bitwa pod Ochmatowem
+   - Bitwa pod Beresteczkiem
+   - Bitwa pod Białą Cerkwią
+   - Bitwa pod Kcynią
+   - Bitwa pod Chojnicami
+   - Zdobycie twierdzy Koldyngi
+   - Bitwa nad Basią
+7. Bonus: Obowiązkowe pytanie bonusowe dotyczące zakresu życia Stefana Czarnieckiego. Odpowiedź ma znaczenie przy obliczaniu wyniku końcowego.
+<-- Koniec map powtarzalnych -->
+8. Statystyki: Podsumowanie wyniku końcowego i informacje o zdobytych w trakcie rozrywki tytułach. Najechanie kursorem myszy na obrazek danego tytułu powoduje wyświetlenie się nazwy i jego historycznego otrzymania przez Stefana Czarnieckiego. Tytuły które nie zostały otrzymane podczas gry z powodu zbyt małej liczby punktów nie zostaną wyświetlone, a na ich miejsce pojawi się znak (?) informujący o braku odpowiedniego pułapu punktowego, aby odblokować dany tytuł. Jest to zabieg mający zachęcić gracza do poprawienia swojego wyniku końcowego. Naciśnięcie przycisku wyjdź spowoduje restart gry i powrót do menu.

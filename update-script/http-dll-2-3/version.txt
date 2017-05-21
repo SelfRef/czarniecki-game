@@ -1,0 +1,25 @@
+Http Dll 2.3
+
+--------------------------------------------------
+
+2.3
+- added RC4 encryption
+- added zlib compression
+- added functions to read part of a file and append to a file
+
+The changes below are not 100% accurate. The list is based on old topic posts.
+
+2.2
+- added UDP functions
+- split socket_update into socket_update_read and socket_update_write
+
+
+2.1
+- changed some function names
+- functions are now more tolerant to programmer errors
+- new reset functions for http requests and sockets
+- new data type (intv/uintv) which is now used by the message system, making this version incompatible with previous versions
+- added SHA-1
+
+2.0
+- everything was rewritten from scratch, there are too many differences with Http Dll 1 to name them.

@@ -1,0 +1,17 @@
+const socket_state_notconnected = 0
+const socket_state_connecting = 1
+const socket_state_connected = 2
+const socket_state_shutdown = 3
+const socket_state_closed = 4
+const socket_state_error = 5
+
+const udpsocket_state_notstarted = 0
+const udpsocket_state_started = 1
+const udpsocket_state_error = 2
+
+const httprequest_state_notconnected = 0
+const httprequest_state_wait_statuscode = 1
+const httprequest_state_wait_headers = 2
+const httprequest_state_wait_messagebody = 3
+const httprequest_state_closed = 4
+const httprequest_state_error = 5
