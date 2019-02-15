@@ -1,14 +1,21 @@
-# Czarniecki - The Game
+---
+code_name: TM-S_CZARNIECKI_GAM_GMS_GML
+create_date: 2013-01
+release_date: 2013-07
+obsolete_date: 2013-07
+author: TM
+author_site: timsmanter.net
+editor: Visual Studio Code
+language: GML
+framework: GameMaker: Studio
+locale: pl_PL
+documentation:
+	- Polish: /docs/description.txt
+license: GPLv3
+status: [Alpha, Obsolete]
+---
 
-* @Author: TimsManter
-* @AuthorSite: [TimsManter.NET](http://timsmanter.net/)
-* @CreateDate: 2013-01
-* @AbandonDate: 2013-07
-* @Language: GML
-* @Framework: GameMaker: Studio
-* @Locale: pl_PL
-* @License: [GPLv3](LICENSE.md)
-* @Status: Alpha | Abandoned | Sample
+# Czarniecki - The Game
 
 ## Overview
 
