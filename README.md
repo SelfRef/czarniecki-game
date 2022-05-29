@@ -1,18 +1,14 @@
 ---
-code_name: TM-S_CZARNIECKI_GAM_GMS_GML
 create_date: 2013-01
 release_date: 2013-07
-obsolete_date: 2013-07
-author: TM
-author_site: timsmanter.net
-editor: Visual Studio Code
+archive_date: 2013-07
 language: GML
-framework: GameMaker: Studio
+framework: GameMaker
 locale: pl_PL
 documentation:
-	- Polish: /docs/description.txt
+- Polish: /docs/description.txt
 license: GPLv3
-status: [Alpha, Obsolete]
+dev_status: Archive
 ---
 
 # Czarniecki - The Game
@@ -21,18 +17,7 @@ status: [Alpha, Obsolete]
 
 Logo | Description
 :---: | :---
-![Logo Icon](docs/logo_min.png) | Czarniecki - The Game is my high school project for competition about our patron Stefan Czarniecki - Polish nobleman. You can read about him at the [Wikipedia page](https://www.wikiwand.com/en/Stefan_Czarniecki).
-
-## Download
-
-Bynary files for Windows OS:
-
-- [Version 0.1a](bin/czarniecki_0.1a.exe)
-- [Version 0.2a](bin/czarniecki_0.2a.exe)
-
-## Manual
-
-[Manual](docs/description.txt) is available in Polish labguage.
+![Logo Icon](docs/logo_min.png) | Czarniecki - The Game is my high school project for contest about our patron Stefan Czarniecki - Polish nobleman. You can read about him at the [Wikipedia page](https://en.wikipedia.org/wiki/Stefan_Czarniecki).
 
 ## Screenshots
 
@@ -44,12 +29,12 @@ Bynary files for Windows OS:
 ![Main Menu](docs/screenshots/description_screen.png) | ![Main Menu](docs/screenshots/map_screen.png)
 ![Main Menu](docs/screenshots/question_screen.png) | ![Main Menu](docs/screenshots/end_game_screen.png) |
 
-## Changelog
+## Manual
 
-### 0.2a
+[Manual](docs/description.txt) is available in Polish language.
 
-- Add quiz mode (not completed)
+## Download and changelog
 
-### 0.1a
+Binaries are on release page.
 
-- Initial alpha release
+In `/bin/cd` directory there is full CD version that went to contest.
